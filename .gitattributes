@@ -1,2 +1,2 @@
--*- mode: flutter; 
--*- flutter 
+# Direct Swift
+*.* linguist-language=Dart
