@@ -1,4 +1,4 @@
-* linguist-vendored
+
 *.c++ linguist-vendored=false
 *.dart linguist-vendored=true
 *.flutter linguist-vendored=true
