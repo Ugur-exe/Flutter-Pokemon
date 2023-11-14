@@ -1,1 +1,2 @@
- *.* linguist-language=Dart
+public/*.html linguist-vendor
+scot-ui/public/*.html linguist-vendor
