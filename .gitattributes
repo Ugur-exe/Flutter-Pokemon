@@ -1,2 +1,1 @@
-public/*.html linguist-vendor
-scot-ui/public/*.html linguist-vendor
+*.html linguist-detectable=false
